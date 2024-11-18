@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>Equipe.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>index.php</url>
+            <bookmark id="3">
+                <name/>
+                <line>2</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Vue/AdminEquipe/AjoutEquipe.php</file>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Controleur/ControleurEquipe.php</file>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Modele/Partie.php</file>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Vue/Partie/index.php</file>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Vue/AdminPartie/index.php</file>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Framework/Controleur.php</file>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Controleur/ControleurPartie.php</file>
+            <file>file:/C:/Ampps/www/Section_08_et_9/marchMadness_v1_0_0_1/Modele/Equipe.php</file>
+        </group>
+    </open-files>
+</project-private>

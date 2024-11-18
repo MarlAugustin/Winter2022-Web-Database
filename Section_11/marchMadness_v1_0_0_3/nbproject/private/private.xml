@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>index.php</url>
+            <bookmark id="3">
+                <name/>
+                <line>2</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>Equipe.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Vue/Equipe/Equipe.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Framework/Routeur.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Bd/march_madness_v1_0_2.sql</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Vue/AdminEquipe/AjoutEquipe.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Controleur/ControleurAdminEquipe.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Config/dev.ini</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Vue/gabarit.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Framework/Controleur.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Modele/Equipe.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Contenu/jquery.i18n/GPL-LICENSE</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Contenu/jquery.i18n/libs/CLDRPluralRuleParser/libs/jquery.js</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Framework/Modele.php</file>
+            <file>file:/C:/Ampps/www/Section_11/marchMadness_v1_0_0_3/Vue/Apropos/index.php</file>
+        </group>
+    </open-files>
+</project-private>
